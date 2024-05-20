@@ -1,0 +1,101 @@
+age,gender,marital_status,number_of_children,department,position,employment_status,shift_timing,length_of_service,work_hours,overtime_days,vacation_days,past_event_attendance,work_days_last_month,absent_days_last_month,event_interest,event_type_preference,event_timing_preference,family_commitments,health_issues,transportation,event_date,event_time,event_location,prior_commitments
+50,M,Single,1,HR,Marketing Specialist,Contract,Night,1,30,0,2,Yes,21,0,1,Social,Weekday,Yes,Severe,Own vehicle,2024-01-05,04:46:14,Office,No
+36,M,Married,0,IT,HR Manager,Full-time,Night,8,20,4,2,No,17,2,10,Social,Weekday,Yes,None,Public transport,2024-03-29,12:12:45,Off-site,Yes
+29,M,Married,3,Marketing,Accountant,Contract,Night,2,30,4,2,Yes,22,3,9,Social,Weekend,Yes,None,Own vehicle,2024-04-26,19:46:22,Off-site,Yes
+42,M,Married,4,Sales,Marketing Specialist,Contract,Night,12,20,3,1,Yes,21,1,7,Family-friendly,Evening,Yes,None,Public transport,2024-05-05,03:43:31,Office,Yes
+40,F,Married,4,Marketing,Software Engineer,Part-time,Night,8,30,2,3,No,17,1,1,Professional,Weekday,Yes,Mild,Public transport,2024-05-12,15:04:06,Off-site,Yes
+44,M,Single,2,IT,Software Engineer,Contract,Night,7,20,0,4,Yes,21,4,8,Family-friendly,Evening,Yes,Mild,Public transport,2024-05-06,05:30:11,Office,No
+32,M,Married,0,Marketing,Sales Executive,Full-time,Night,10,20,2,0,Yes,19,4,3,Family-friendly,Evening,Yes,Mild,Public transport,2024-03-21,05:51:36,Office,Yes
+32,M,Single,0,Finance,Accountant,Part-time,Night,10,20,2,3,No,22,1,8,Professional,Weekday,Yes,Mild,Own vehicle,2024-05-10,00:33:54,Office,Yes
+45,F,Single,2,Marketing,Accountant,Part-time,Night,2,30,4,2,No,20,4,5,Family-friendly,Weekday,No,Severe,Public transport,2024-05-02,06:47:09,Office,No
+57,M,Single,2,HR,Sales Executive,Full-time,Day,6,30,3,3,Yes,15,2,1,Professional,Evening,No,Severe,Own vehicle,2024-03-11,16:59:51,Off-site,Yes
+45,M,Single,2,HR,Marketing Specialist,Full-time,Day,6,30,1,4,Yes,21,1,7,Social,Weekday,No,Mild,Public transport,2024-01-27,11:54:06,Off-site,No
+24,F,Married,3,Finance,Accountant,Part-time,Night,3,20,3,0,No,19,4,5,Professional,Weekday,Yes,Severe,Public transport,2024-02-15,10:39:06,Office,No
+43,M,Single,0,IT,Software Engineer,Contract,Night,11,30,3,0,No,17,1,6,Social,Weekday,No,None,Own vehicle,2024-03-28,00:39:35,Office,No
+23,M,Single,3,HR,Software Engineer,Part-time,Day,2,30,2,4,Yes,17,3,6,Family-friendly,Weekend,No,None,Own vehicle,2024-04-29,22:35:30,Office,Yes
+45,M,Single,2,Sales,HR Manager,Full-time,Night,12,20,3,4,No,15,0,8,Family-friendly,Evening,No,None,Own vehicle,2024-01-12,14:50:49,Office,No
+51,M,Married,0,HR,Accountant,Part-time,Day,1,40,0,2,Yes,18,1,9,Social,Evening,Yes,Mild,Public transport,2024-02-10,12:34:49,Office,No
+59,M,Married,3,HR,Marketing Specialist,Full-time,Day,6,20,2,0,Yes,21,0,2,Family-friendly,Weekend,Yes,None,Public transport,2024-05-17,20:53:16,Off-site,Yes
+23,F,Married,3,IT,Sales Executive,Part-time,Day,12,30,0,3,Yes,22,4,9,Professional,Evening,Yes,Severe,Own vehicle,2024-01-06,22:01:11,Off-site,No
+42,F,Married,2,Marketing,Sales Executive,Contract,Day,5,20,1,1,Yes,16,0,10,Social,Weekday,Yes,Mild,Own vehicle,2024-02-07,21:22:06,Off-site,No
+54,F,Single,0,HR,Marketing Specialist,Part-time,Day,14,40,2,1,Yes,17,1,9,Family-friendly,Evening,No,Severe,Own vehicle,2024-01-07,12:06:48,Off-site,No
+33,M,Single,2,Finance,HR Manager,Part-time,Night,14,20,1,4,No,22,3,10,Social,Weekday,No,None,Own vehicle,2024-05-18,17:57:16,Office,No
+43,M,Married,0,Marketing,Sales Executive,Full-time,Day,11,30,2,2,No,22,4,10,Professional,Weekend,No,None,Public transport,2024-02-06,14:05:49,Office,No
+46,M,Single,4,Sales,Accountant,Full-time,Night,9,40,4,1,No,20,1,7,Professional,Weekday,No,None,Own vehicle,2024-03-31,11:01:31,Office,Yes
+48,F,Single,1,IT,HR Manager,Full-time,Night,1,30,3,0,No,22,4,1,Family-friendly,Evening,Yes,Mild,Own vehicle,2024-04-03,00:39:42,Office,No
+49,M,Single,1,Sales,Accountant,Part-time,Day,7,40,4,4,Yes,22,2,7,Professional,Evening,Yes,Severe,Own vehicle,2024-02-25,09:43:35,Office,No
+37,M,Married,1,Marketing,Software Engineer,Contract,Day,5,40,1,3,Yes,20,0,10,Social,Evening,Yes,Mild,Own vehicle,2024-01-16,09:38:10,Off-site,Yes
+36,F,Married,2,Marketing,HR Manager,Full-time,Night,5,20,3,4,Yes,17,2,5,Professional,Weekend,No,Mild,Public transport,2024-04-17,08:20:43,Office,Yes
+24,M,Single,4,Marketing,Sales Executive,Full-time,Day,14,20,2,3,Yes,22,1,6,Social,Weekend,Yes,None,Own vehicle,2024-04-20,00:43:17,Off-site,Yes
+58,F,Married,0,Sales,HR Manager,Part-time,Day,2,30,3,4,No,18,3,10,Social,Evening,Yes,Mild,Public transport,2024-03-01,23:04:25,Off-site,No
+28,F,Married,3,Marketing,HR Manager,Full-time,Night,11,20,0,4,Yes,18,4,7,Professional,Weekday,No,Mild,Own vehicle,2024-03-02,15:06:11,Off-site,Yes
+42,F,Married,0,Sales,HR Manager,Contract,Night,3,20,3,4,Yes,19,0,5,Family-friendly,Weekend,No,None,Own vehicle,2024-03-17,05:57:45,Off-site,No
+30,M,Married,3,Marketing,HR Manager,Contract,Day,7,40,0,3,No,20,4,7,Professional,Evening,Yes,Mild,Public transport,2024-04-04,22:40:30,Office,No
+39,M,Married,0,Finance,Accountant,Full-time,Night,6,20,3,3,No,19,1,9,Social,Evening,Yes,None,Own vehicle,2024-05-03,22:08:20,Off-site,Yes
+25,M,Single,4,Marketing,Software Engineer,Full-time,Day,12,40,0,4,No,20,4,3,Social,Weekend,Yes,None,Public transport,2024-02-25,04:25:46,Off-site,Yes
+46,M,Married,3,Sales,Marketing Specialist,Part-time,Day,2,40,1,1,No,21,0,8,Professional,Weekend,Yes,None,Public transport,2024-03-21,21:25:57,Off-site,No
+35,M,Single,2,HR,HR Manager,Contract,Day,6,40,4,2,Yes,21,1,2,Family-friendly,Weekend,Yes,None,Own vehicle,2024-04-07,13:57:35,Office,Yes
+30,M,Single,0,Marketing,Sales Executive,Contract,Night,2,30,2,2,Yes,22,4,7,Family-friendly,Weekday,Yes,Mild,Public transport,2024-04-21,14:37:22,Office,No
+47,M,Married,0,HR,HR Manager,Full-time,Night,2,30,3,2,No,16,3,2,Social,Weekday,No,None,Public transport,2024-04-03,20:41:42,Office,Yes
+23,F,Single,3,Finance,Sales Executive,Part-time,Night,2,30,4,3,Yes,21,1,4,Social,Evening,No,None,Public transport,2024-04-06,06:01:03,Off-site,Yes
+41,M,Single,2,IT,Accountant,Contract,Night,14,40,2,3,Yes,16,1,7,Family-friendly,Weekend,No,Mild,Public transport,2024-02-26,21:16:45,Off-site,Yes
+49,F,Single,2,Finance,Sales Executive,Contract,Night,11,30,2,1,Yes,21,3,3,Professional,Weekday,Yes,Mild,Public transport,2024-03-23,00:19:02,Office,No
+28,M,Married,4,Marketing,Marketing Specialist,Part-time,Day,3,30,0,2,No,15,2,2,Social,Weekend,No,Severe,Public transport,2024-05-05,10:45:32,Off-site,Yes
+29,M,Married,2,HR,Software Engineer,Part-time,Day,2,20,1,2,Yes,21,0,10,Social,Evening,Yes,Mild,Public transport,2024-04-06,05:31:29,Office,No
+56,M,Single,2,HR,Sales Executive,Contract,Day,4,30,1,4,No,19,2,7,Family-friendly,Weekday,Yes,Mild,Public transport,2024-05-16,04:28:49,Office,No
+35,F,Married,2,Sales,Sales Executive,Contract,Day,9,30,4,3,Yes,17,4,1,Professional,Weekday,No,Severe,Own vehicle,2024-02-21,16:39:28,Off-site,No
+38,F,Married,1,HR,Software Engineer,Part-time,Night,6,40,1,2,Yes,22,3,8,Family-friendly,Weekday,Yes,Mild,Own vehicle,2024-04-26,16:54:50,Off-site,No
+57,F,Married,4,Sales,Marketing Specialist,Contract,Day,1,40,3,1,Yes,19,2,3,Professional,Evening,Yes,Mild,Public transport,2024-01-20,09:22:20,Off-site,Yes
+25,F,Married,0,IT,HR Manager,Full-time,Night,8,40,1,1,No,17,1,2,Professional,Weekend,No,Mild,Own vehicle,2024-03-01,02:01:24,Off-site,No
+23,M,Single,3,Marketing,Sales Executive,Full-time,Day,12,40,4,2,Yes,18,4,3,Professional,Weekday,No,Mild,Public transport,2024-01-07,11:14:21,Office,No
+27,F,Single,0,Sales,Software Engineer,Part-time,Night,14,40,1,3,No,19,4,5,Social,Evening,No,Severe,Public transport,2024-01-06,17:10:35,Office,Yes
+25,M,Married,4,IT,Accountant,Part-time,Night,7,40,3,1,No,18,2,8,Family-friendly,Weekend,Yes,Mild,Own vehicle,2024-05-01,13:50:56,Office,No
+50,M,Married,3,HR,Software Engineer,Part-time,Day,10,30,0,4,No,16,2,10,Family-friendly,Evening,No,Mild,Public transport,2024-01-11,20:46:54,Office,Yes
+39,F,Single,4,HR,Accountant,Full-time,Day,3,40,4,1,Yes,16,3,7,Professional,Weekend,No,Severe,Public transport,2024-05-18,13:47:39,Office,No
+47,F,Single,2,IT,Marketing Specialist,Contract,Day,1,40,0,0,Yes,15,0,7,Social,Evening,Yes,None,Public transport,2024-03-03,14:09:45,Off-site,Yes
+55,F,Married,3,HR,HR Manager,Full-time,Day,5,20,0,0,Yes,21,2,7,Social,Weekend,No,Severe,Public transport,2024-03-06,14:26:14,Office,No
+31,F,Single,2,IT,Software Engineer,Contract,Night,13,30,0,3,Yes,19,2,8,Family-friendly,Weekday,No,None,Own vehicle,2024-05-08,21:17:21,Office,Yes
+57,F,Married,0,Sales,Sales Executive,Full-time,Day,4,30,2,2,No,18,1,1,Social,Weekend,No,Severe,Public transport,2024-05-13,06:32:59,Office,No
+35,F,Married,0,Sales,Marketing Specialist,Contract,Day,10,30,2,3,No,17,4,4,Social,Evening,Yes,Severe,Public transport,2024-01-29,21:55:13,Off-site,No
+52,F,Single,3,IT,Software Engineer,Full-time,Night,8,40,0,3,No,16,0,6,Professional,Evening,Yes,Mild,Public transport,2024-04-03,21:50:52,Off-site,Yes
+36,F,Single,3,Sales,Sales Executive,Part-time,Day,1,40,4,3,Yes,21,1,9,Social,Weekend,Yes,None,Own vehicle,2024-03-29,05:17:08,Off-site,Yes
+29,M,Married,4,Sales,Software Engineer,Full-time,Day,10,40,3,3,No,16,3,2,Professional,Weekday,Yes,Mild,Public transport,2024-01-23,10:46:11,Off-site,Yes
+35,F,Married,4,Sales,Accountant,Contract,Day,1,20,3,4,Yes,17,3,1,Family-friendly,Weekday,No,None,Own vehicle,2024-01-24,09:48:51,Office,Yes
+44,F,Single,2,Finance,Software Engineer,Full-time,Day,12,40,1,4,No,21,2,10,Social,Weekend,Yes,Severe,Own vehicle,2024-05-10,04:21:56,Office,No
+42,M,Married,3,Marketing,Software Engineer,Full-time,Day,4,20,4,1,Yes,21,2,2,Family-friendly,Weekend,Yes,Severe,Public transport,2024-04-23,03:46:59,Off-site,No
+37,F,Single,0,HR,Software Engineer,Full-time,Night,8,30,2,0,Yes,18,3,7,Family-friendly,Evening,No,None,Public transport,2024-03-15,02:40:02,Off-site,Yes
+39,M,Married,4,Finance,Marketing Specialist,Part-time,Day,5,40,0,3,No,18,2,3,Social,Weekday,No,Mild,Own vehicle,2024-03-01,02:00:40,Office,No
+45,M,Single,4,Sales,Software Engineer,Full-time,Day,2,20,1,1,No,19,0,10,Social,Weekend,No,Mild,Public transport,2024-02-04,22:00:27,Office,Yes
+47,F,Single,0,IT,Sales Executive,Part-time,Day,6,20,3,0,No,19,2,2,Family-friendly,Weekday,Yes,Mild,Own vehicle,2024-03-11,13:40:59,Off-site,Yes
+46,M,Single,4,Sales,Accountant,Part-time,Day,5,40,2,2,No,20,4,7,Social,Weekend,Yes,Mild,Own vehicle,2024-02-12,22:44:28,Off-site,No
+50,M,Married,2,Marketing,Accountant,Full-time,Day,2,30,2,4,Yes,22,2,2,Professional,Weekend,Yes,Severe,Public transport,2024-03-07,17:54:49,Off-site,No
+36,M,Married,3,Sales,Software Engineer,Full-time,Night,13,30,0,0,No,20,1,3,Professional,Weekday,No,Severe,Public transport,2024-02-01,06:14:35,Off-site,No
+22,M,Single,0,IT,Marketing Specialist,Full-time,Day,14,30,3,2,No,15,0,7,Social,Weekend,No,Severe,Own vehicle,2024-03-15,10:44:18,Office,No
+46,F,Married,3,Marketing,Marketing Specialist,Contract,Night,11,20,4,0,No,16,1,4,Family-friendly,Weekend,Yes,Severe,Own vehicle,2024-03-25,17:02:44,Office,No
+28,M,Single,4,Sales,Sales Executive,Full-time,Night,11,20,2,4,Yes,19,1,1,Social,Evening,No,Severe,Own vehicle,2024-02-28,22:46:56,Office,No
+30,F,Single,4,Marketing,Software Engineer,Part-time,Day,11,20,0,4,Yes,18,4,5,Social,Weekend,No,Mild,Own vehicle,2024-03-10,07:41:49,Off-site,No
+45,M,Married,0,HR,Accountant,Full-time,Day,3,20,4,1,No,17,0,9,Family-friendly,Weekend,No,Mild,Public transport,2024-05-18,10:22:06,Off-site,Yes
+22,M,Married,2,HR,Marketing Specialist,Contract,Day,9,30,3,3,Yes,18,0,8,Family-friendly,Weekend,Yes,Mild,Public transport,2024-03-24,01:32:30,Office,Yes
+29,M,Single,1,Sales,Software Engineer,Full-time,Day,7,40,2,0,No,16,0,9,Professional,Evening,No,Mild,Public transport,2024-03-24,13:23:59,Office,Yes
+45,M,Married,0,Marketing,Marketing Specialist,Contract,Night,7,20,4,0,Yes,20,0,10,Family-friendly,Weekday,No,Severe,Public transport,2024-01-29,01:39:51,Office,Yes
+32,F,Married,1,IT,Marketing Specialist,Contract,Day,11,20,4,2,Yes,18,0,9,Professional,Evening,Yes,Severe,Public transport,2024-01-28,12:41:24,Office,Yes
+38,F,Single,1,Sales,Accountant,Full-time,Day,6,30,4,4,Yes,22,4,7,Family-friendly,Evening,Yes,Severe,Own vehicle,2024-01-29,18:54:40,Off-site,No
+29,M,Single,2,HR,HR Manager,Part-time,Day,8,40,2,0,Yes,15,2,4,Social,Weekday,No,None,Public transport,2024-03-01,02:50:33,Office,Yes
+56,M,Married,1,HR,Sales Executive,Contract,Day,4,40,2,4,No,16,1,5,Professional,Evening,No,Mild,Public transport,2024-02-28,17:36:49,Office,Yes
+56,F,Single,1,Sales,Sales Executive,Full-time,Day,8,30,1,0,No,20,0,1,Professional,Weekday,Yes,Mild,Public transport,2024-04-19,03:16:49,Office,Yes
+54,M,Single,2,Marketing,Accountant,Full-time,Day,4,30,3,1,No,22,2,1,Professional,Evening,Yes,Severe,Public transport,2024-05-16,05:24:04,Office,Yes
+26,M,Married,1,HR,Marketing Specialist,Part-time,Night,8,40,0,3,Yes,17,2,3,Social,Weekday,No,Mild,Public transport,2024-04-23,23:02:13,Office,Yes
+49,M,Single,1,Marketing,Software Engineer,Contract,Night,9,20,4,0,No,20,1,8,Social,Weekend,No,Mild,Own vehicle,2024-02-23,07:37:49,Office,Yes
+28,F,Single,1,HR,Marketing Specialist,Contract,Day,3,40,1,4,No,21,4,2,Social,Evening,No,Severe,Own vehicle,2024-03-20,07:09:07,Office,Yes
+30,F,Married,0,HR,Accountant,Full-time,Day,3,30,0,1,No,22,3,4,Social,Evening,No,None,Own vehicle,2024-04-16,11:28:48,Off-site,No
+29,F,Married,0,Finance,Sales Executive,Full-time,Day,11,20,1,0,Yes,22,3,2,Social,Evening,Yes,None,Public transport,2024-04-27,00:17:15,Off-site,No
+33,M,Single,0,HR,Marketing Specialist,Part-time,Night,13,20,2,2,Yes,15,2,5,Professional,Evening,No,None,Own vehicle,2024-01-19,00:27:24,Off-site,Yes
+55,M,Single,2,IT,Sales Executive,Part-time,Day,2,30,4,3,Yes,16,1,9,Social,Weekend,No,Severe,Own vehicle,2024-01-22,03:42:06,Off-site,No
+54,F,Married,4,Sales,Software Engineer,Contract,Night,13,30,0,0,No,17,3,1,Professional,Evening,Yes,Mild,Public transport,2024-03-15,23:23:19,Office,No
+44,F,Married,1,Sales,Sales Executive,Contract,Day,10,30,0,1,No,15,2,5,Social,Weekend,No,Severe,Public transport,2024-03-01,04:24:29,Off-site,No
+45,F,Married,1,Marketing,Sales Executive,Full-time,Day,3,40,0,2,No,20,4,9,Family-friendly,Weekend,Yes,Severe,Public transport,2024-01-05,16:34:05,Off-site,No
+58,F,Married,2,HR,HR Manager,Contract,Day,3,40,0,1,Yes,15,3,1,Professional,Weekend,No,Mild,Own vehicle,2024-02-18,08:10:00,Office,Yes
+56,M,Single,1,IT,HR Manager,Part-time,Day,5,20,0,1,Yes,22,2,9,Family-friendly,Weekend,No,None,Own vehicle,2024-03-31,23:37:35,Office,No
+43,F,Married,0,Marketing,HR Manager,Part-time,Night,5,30,1,2,No,16,2,8,Professional,Weekday,Yes,None,Public transport,2024-05-08,05:10:54,Off-site,No
+48,M,Married,4,Finance,Sales Executive,Full-time,Night,2,20,4,1,Yes,19,0,4,Family-friendly,Weekday,Yes,Severe,Public transport,2024-02-09,12:10:38,Off-site,No
+56,F,Single,3,Marketing,Accountant,Part-time,Day,12,20,2,2,Yes,15,4,10,Social,Evening,No,None,Own vehicle,2024-03-13,09:55:10,Office,Yes
